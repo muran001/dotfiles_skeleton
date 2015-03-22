@@ -1,0 +1,20 @@
+[core]
+    excludesfile = ~/.gitignore
+    attributesfile = ~/.gitattributes
+    editor = vim
+[color]
+  
+[push]
+  
+[merge]
+  
+[diff]
+  
+[merge]
+  
+[branch]
+  
+[help]
+  
+[alias]
+
